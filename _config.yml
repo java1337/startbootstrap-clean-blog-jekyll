@@ -1,15 +1,15 @@
 # Site settings
 title: Clean Blog
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
-email_username:  your-email@yourdomain.com
+email: hiteshklad@gmail.com
+copyright_name: java1337.com
+description: "Sharing technology insights, focused on web and jvm technologies!"
+baseurl: "/www.java1337.com"
+url: "http://java1337.github.io"
+twitter_username: java1337
+github_username:  java1337
+facebook_username:  hiteshlad
+email_username:  hiteshklad@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
